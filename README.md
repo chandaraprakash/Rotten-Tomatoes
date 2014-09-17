@@ -17,3 +17,5 @@ Optional stories Completed:
 
 * For the large poster, load the low-res image first, switch to high-res when complete
 * Add a search bar
+
+![demo](demo.gif)
